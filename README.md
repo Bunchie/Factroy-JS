@@ -1,6 +1,4 @@
-# Factroy-JS
-
-<h1>Factory Method ( Virtual Constructor )</h1>
+# Factory Method ( Virtual Constructor )
  
 <h3> Структура </h3>
 
